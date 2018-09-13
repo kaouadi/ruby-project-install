@@ -7,7 +7,7 @@ Installation plateforme ruby on rails
 
 Brew est un outil pour MacOS qui permet d'installer en ligne de commande des applications ou des librairies
 
-ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+`ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
 
 # Etape 2 : Installation git
