@@ -2,6 +2,13 @@
 
 Installation plateforme ruby on rails
 
+commande pour interpreter du ruby :
+ibr a saisir dans le terminal
+
+https://github.com/lewagon/teaching/tree/master/prepwork
+
+
+
 
 #  Etape 1 : Installation de brew
 
