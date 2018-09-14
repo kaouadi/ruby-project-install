@@ -82,9 +82,15 @@ la commande suivante permet d'installer un environement pour deployer son applic
 
 Installation de la version rails 5.0 associé à la version de ruby 2.3.7
 
+`ruby -v`
+
 `rvm use 2.3.7`
 
 Utilisation d'un systeme de container pour separer les differentes version de ruby avec les differentes version du framework rails 
+
+`mkdir ruby-business-projects`
+
+`cd ruby-business-projects`
 
 `rvm gemset create rails500`
 
