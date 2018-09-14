@@ -110,6 +110,16 @@ Saisir la ligne de commande suivante pour afficher les fichiers '.ruby-version .
 
 `ls -a`
 
+# Etape 10 : Sauvegarder le projet en local
+
+`git init`
+`git add .`
+`git commit -m "Initialisation du projet"`
+
+
+
+
+
 
 
 
