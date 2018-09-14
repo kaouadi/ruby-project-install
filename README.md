@@ -130,7 +130,7 @@ Generer le gemset
 
 # Etape 11 : Lancer le projet
 
-`rails -s`
+`rails s`
 
 
 
