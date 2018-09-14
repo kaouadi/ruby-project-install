@@ -116,6 +116,10 @@ Saisir la ligne de commande suivante pour afficher les fichiers '.ruby-version .
 
 `ls -a`
 
+Generer le gemset 
+
+`rvm --ruby-version use 2.3.7@rails500`
+
 # Etape 10 : Sauvegarder le projet en local
 
 `git init`
