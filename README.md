@@ -66,13 +66,19 @@ la commande permet d'installer une base de donnée relationnelle
 
 `brew install postgres`
 
-# Etape 7 : Installation heroku 
+# Etape 7 : Installation PgAdmin
+
+`PgAdmin est la console de gestio de la base de donnee postgres`
+
+https://www.postgresql.org/ftp/pgadmin/pgadmin4/v2.0/macos/
+
+# Etape 8 : Installation heroku 
 
 la commande suivante permet d'installer un environement pour deployer son application sur la plateforme cloud
 
 `brew install heroku`
 
-# Etape 8 : Creation projet blog
+# Etape 9 : Creation projet blog
 
 Installation de la version rails 5.0 associé à la version de ruby 2.3.7
 
